@@ -1,6 +1,6 @@
 # D&D 5e Character Sheet for Roll20
 
-> ☕ **Enjoying the sheet?** Any tip is greatly appreciated: **PayPal – mikulas.barna@seznam.cz**. Thank you!
+> ☕ **Enjoying the sheet?** Any tip is greatly appreciated: **PayPal – mikulas.barna@seznam.cz**. Thank you! (It took a lot of time, but you certainly do not have to send anything. Just enjoy the sheet :))
 
 A custom Dungeons & Dragons 5th Edition character sheet for [Roll20](https://roll20.net). It has a dark red-and-gold look, its own styled chat cards, and a lot of automation, so you spend less time doing bookkeeping and more time playing:
 
