@@ -14,16 +14,6 @@ You need to be the GM of the game, with a Roll20 account that allows custom shee
 
 The images are loaded straight from the [`Sheet_Art`](Sheet_Art) folder of this repository, so keep that folder (and its file names) where it is.
 
-## Repository layout
-
-```
-Character_Sheet_for_Roll20/
-├── README.md     - this file
-├── sheet.html    - Roll20 "HTML Layout" (layout + sheet workers + roll template)
-├── sheet.css     - Roll20 "CSS Styling"
-└── Sheet_Art/    - all images used by the sheet (PNG)
-```
-
 ## Pages
 
 **Core**
